@@ -31,8 +31,3 @@ python3 -m http.server 8000
 ```
 
 An internet connection is needed for Tailwind, fonts and the Credly badges to load.
-
-## Updating
-
-- **Add a project:** copy an existing project card in the Projects section of `index.html`, add an image to the repo root, and update the text and link.
-- **Update the resume:** replace `Dayna_Dranitsaris_Resume.pdf` with a file of the same name.
